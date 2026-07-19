@@ -2,12 +2,12 @@
 {
 "storeHouse": [
 {"sourceName":"🔶01薛定谔的喵 | 高清仓库🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xdedcat-lf/kitten/refs/heads/main/cat4K"},
-{"sourceName":"🔶02薛定谔的喵 | 短剧仓库🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xdedcat-lf/kitten/refs/heads/main/playlet"},
-{"sourceName":"🔶03薛定谔的喵 | 优选仓库🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xdedcat-lf/kitten/refs/heads/main/cat0"},
-{"sourceName":"🔶04薛定谔的喵 | 精品一仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xdedcat-lf/kitten/refs/heads/main/cat1"},
-{"sourceName":"🔶05薛定谔的喵 | 精品二仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xdedcat-lf/kitten/refs/heads/main/cat2"},
-{"sourceName":"🔶06薛定谔的喵 | 精品三仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xdedcat-lf/kitten/refs/heads/main/cat3"},
-{"sourceName":"🔶07薛定谔的喵 | 精品四仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xdedcat-lf/kitten/refs/heads/main/cat4"},
+{"sourceName":"🔶02薛定谔的喵 | 优选仓库🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xdedcat-lf/kitten/refs/heads/main/cat0"},
+{"sourceName":"🔶03薛定谔的喵 | 精品一仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xdedcat-lf/kitten/refs/heads/main/cat1"},
+{"sourceName":"🔶04薛定谔的喵 | 精品二仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xdedcat-lf/kitten/refs/heads/main/cat2"},
+{"sourceName":"🔶05薛定谔的喵 | 精品三仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xdedcat-lf/kitten/refs/heads/main/cat3"},
+{"sourceName":"🔶06薛定谔的喵 | 精品四仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xdedcat-lf/kitten/refs/heads/main/cat4"},
+{"sourceName":"🔶07薛定谔的喵 | 短剧仓库🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/xdedcat-lf/kitten/refs/heads/main/playlet"},
 {"sourceName":"🔶08薛定谔的喵 | Easy多仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easydc.jpg"},
 {"sourceName":"🔶09薛定谔的喵 | Easy多仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/EasyXC/EasyTVbox/main/easytv.jpg"},
 {"sourceName":"🔶10薛定谔的喵 | 多多优选🔶","sourceUrl":"https://jianhancloud.cn/xduo/公众号多多APP.json"},
@@ -30,10 +30,10 @@
 {"sourceName":"🔶27薛定谔的喵 | Niuber仓🔶","sourceUrl":"https://gh-proxy.org/https://raw.githubusercontent.com/niuber/niuber/refs/heads/main/niuber.json"},
 {"sourceName":"🔶28薛定谔的喵 | 星空影仓🔶","sourceUrl":"https://raw.giteeusercontent.com/JG131-KJ/colorful-life/raw/master/XKYC.json"},
 {"sourceName":"🔶29薛定谔的喵 | 无邪多仓🔶","sourceUrl":"https://gh-proxy.com/https://raw.githubusercontent.com/wxrjck/-YSC-/refs/heads/main/wx.json"},
-{"sourceName":"🔶30薛定谔的喵 | 青龙多仓🔶","sourceUrl":"https://gh.llkk.cc/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json"},
-{"sourceName":"🔶31薛定谔的喵 | 白虎多仓🔶","sourceUrl":"http://xmbjm.fh4u.org/dc.txt"},
-{"sourceName":"🔶32薛定谔的喵 | 朱雀多仓🔶","sourceUrl":"https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json"},
-{"sourceName":"🔶33薛定谔的喵 | 玄武多仓🔶","sourceUrl":"https://gh.927223.xyz/https://raw.githubusercontent.com/jllyzjs/qile/refs/heads/main/qile.json"},
-{"sourceName":"🔶34薛定谔的喵 | 麒麟多仓🔶","sourceUrl":"http://iiptv.xyz/dxaz"}
+{"sourceName":"🔶30薛定谔的喵 | 鱼佬多仓🔶","sourceUrl":"https://gh.927223.xyz/https://raw.githubusercontent.com/jllyzjs/qile/refs/heads/main/qile.json"},
+{"sourceName":"🔶31薛定谔的喵 | 青龙多仓🔶","sourceUrl":"https://gh.llkk.cc/https://raw.githubusercontent.com/tushen6/Tomorrow/master/lmw.json"},
+{"sourceName":"🔶32薛定谔的喵 | 白虎多仓🔶","sourceUrl":"http://xmbjm.fh4u.org/dc.txt"},
+{"sourceName":"🔶33薛定谔的喵 | 朱雀多仓🔶","sourceUrl":"https://gitlab.com/noimank/tvbox/-/raw/main/tvboxmuti.json"},
+{"sourceName":"🔶34薛定谔的喵 | 玄武多仓🔶","sourceUrl":"http://iiptv.xyz/dxaz"}
 ]
 }
